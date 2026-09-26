@@ -107,7 +107,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/nobita329/vpanel-pro.git
+git clone https://github.com/cloudgamingyt66-ctrl/vpanel-pro
 cd vpanel-pro
 
 # Interactive installation menu
