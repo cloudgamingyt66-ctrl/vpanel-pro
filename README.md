@@ -136,7 +136,7 @@ sudo bash install.sh --install -y --admin-user admin --admin-email admin@vpanel.
 
 ```bash
 # 1. Clone repository and install dependencies
-git clone https://github.com/nobita329/vpanel-pro.git
+git clone https://github.com/cloudgamingyt66-ctrl/vpanel-pro
 cd vpanel-pro
 npm install
 
